@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WebApplication7.Models.User>
+
+
+
+@{ 
+    Layout = null;
+}
+
+<body style="background-color:blanchedalmond; font-size:30px">
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table align="center" cellpadding="15" style="margin-right:500px; margin-top:100px; font-size:25px" class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            string ageColor = "white";
+
+            if (item.Age < 18)
+            {
+                ageColor = "yellow";
+
+            }
+            <tr style="background-color:@ageColor">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Firstname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.UserID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.UserID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.UserID })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>

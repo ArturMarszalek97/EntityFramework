@@ -1,0 +1,239 @@
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\WebApplication7.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\csc.exe.config
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\csc.rsp
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\csi.exe
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\csi.exe.config
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\csi.rsp
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.AppContext.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Console.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\vbc.exe.config
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\vbc.rsp
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\EntityFramework.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\EntityFramework.SqlServer.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Helpers.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Mvc.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Razor.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Webpages.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\EntityFramework.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\EntityFramework.SqlServer.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Razor.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Webpages.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Helpers.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\System.Web.Mvc.xml
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csproj.CopyComplete
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\Sandra\source\repos\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\WebApplication7.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csc.exe
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csc.exe.config
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csc.rsp
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csi.exe
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csi.exe.config
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\csi.rsp
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.AppContext.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Console.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.IO.Compression.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.Claims.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.ValueTuple.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\vbc.exe
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\vbc.exe.config
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\vbc.rsp
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\EntityFramework.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\EntityFramework.SqlServer.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Helpers.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Mvc.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Razor.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Webpages.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\EntityFramework.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\EntityFramework.SqlServer.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Razor.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Webpages.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Helpers.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\System.Web.Mvc.xml
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\Artur\Downloads\Nowy folder\WebApplication7\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\WebApplication7.dll.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\WebApplication7.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\WebApplication7.pdb
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\csc.exe
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\csc.exe.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\csc.rsp
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\csi.exe
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\csi.exe.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\csi.rsp
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.AppContext.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Console.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.IO.Compression.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.Claims.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.ValueTuple.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\vbc.exe
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\vbc.exe.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\vbc.rsp
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\EntityFramework.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\EntityFramework.SqlServer.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Helpers.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Mvc.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Razor.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Webpages.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\EntityFramework.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\EntityFramework.SqlServer.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Razor.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Webpages.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Helpers.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\System.Web.Mvc.xml
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\pl\System.Web.Webpages.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\pl\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\pl\System.Web.Webpages.Razor.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\obj\Debug\WebApplication7.dll
+C:\Users\Artur\Desktop\Studia\Semestr 4\Programowanie aplikacji www w technologi .Net\Baza danych\WebApplication7\obj\Debug\WebApplication7.pdb
